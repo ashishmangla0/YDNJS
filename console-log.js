@@ -14,6 +14,12 @@ console.log('%i number %i this is demo',numberNew,secondNumber)
 
 
 
+//for more details reffers:
+//https://developer.mozilla.org/en-US/docs/Web/API/console
+//https://blog.teamtreehouse.com/mastering-developer-tools-console
+
+
+
 
 
 
